@@ -1,0 +1,24 @@
+---
+title: Anthony Li Debate
+notitleprefix: true
+---
+
+<h1>Anthony Li <span class="font-weight-light">Debate</span></h1>
+<p>The one place for my cases, blocks, and disclosures.</p>
+
+<h3 class="heading-muted mt-5">Current Disclosures</h3>
+<div class="d-flex flex-wrap mb-3">
+    {% assign seasons = site.seasons | sort:"order" %}
+    {% for season in seasons %}
+    {% assign url = "/debate" | append: season.url %}
+    {% include link.html href=url title=season.title domain="View disclosures" %}
+    {% endfor %}
+</div>
+
+<p>
+    <strong>Why am I not disclosing on the wiki?</strong>
+    I feel that while disclosure is a good thing, disclosure shouldn't be forced to happen on a specific website.
+    Decentralization is a good thing, and should be a norm that we set in debate.
+    This website is how I express that norm.
+    <em>Expect theory if you contest this idea in a debate round.</em>
+</p>
