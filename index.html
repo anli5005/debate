@@ -8,8 +8,12 @@ notitleprefix: true
 <h1>Anthony Li <span class="font-weight-light">Debate</span></h1>
 <p>The one place for my cases, blocks, and disclosures.</p>
 
+<h3 class="heading-muted mt-5">Info</h3>
+<div class="mb-3">{% include link.html href="https://anli.dev/contact" bg="var(--dark)" color="var(--dark-text)" title="Contact Info" domain="anli.dev/contact" target="_blank" %}</div>
+<p><strong>Preferred pronouns:</strong> He/Him/His</p>
+
 <h3 class="heading-muted mt-5">Current Disclosures</h3>
-<div class="d-flex flex-wrap mb-3">
+<div class="d-flex flex-wrap">
     {% assign seasons = site.seasons | sort:"order" %}
     {% for season in seasons %}
     {% assign url = "/debate" | append: season.url %}
@@ -17,12 +21,7 @@ notitleprefix: true
     {% endfor %}
 </div>
 
-<h3 class="heading-muted mt-5">More Stuff</h3>
-<div class="d-flex flex-wrap mb-3">
-    {% include link.html href="https://anli.dev/contact" bg="var(--dark)" color="var(--dark-text)" title="Contact Info" domain="anli.dev/contact" target="_blank" %}
-</div>
-
-<p>
+<p class="mt-5">
     <strong>Why am I not disclosing on the wiki?</strong>
     I feel that while disclosure is a good thing, disclosure shouldn't be forced to happen on a specific website.
     Decentralization is a good thing, and should be a norm that we set in debate.
