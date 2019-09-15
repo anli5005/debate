@@ -6,7 +6,7 @@ season: ld2019septoct
 <div class="alert alert-warning mb-3">This case may contain a personal narrative when run.</div>
 
 ## FW: Structural Violence
-The role of the ballot should be to resist structural violence.
+The role of the judge should be to vote for the debater who best demonstratively resists structural violence.
 
 #### Structural violence occurs when the structure of our society oppresses others. Thus, we must educate ourselves to think critically about structural oppression.
 Farmer et al ’06 - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1621099/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1621099/) 
