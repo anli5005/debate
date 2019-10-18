@@ -1,7 +1,12 @@
 ---
-title: CP - Nationalized Standardized Testing
+title: DA/CP - Grade Inflation & Nationalized Standardized Testing
 season: ld2019septoct
 ---
+
+**Rounds:**
+* Yale Invitational JVLD R1 vs. Acton-Boxborough OH (Judge: Jeff Morris)
+* Yale Invitational JVLD R3 vs. Lake Highland Prep YA (Judge: Emily White)
+* Yale Invitational JVLD R6 vs. Hunter AL (Judge: Eric Tang)
 
 ## Framework
 The role of the ballot should be to resist structural violence.
@@ -13,6 +18,28 @@ Farmer et al ’06 - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1621099/](htt
 #### We must solve structural violence first because we cannot form a coherent moral code if we are excluding others from our moral sphere.
 Winter & Leighton '01 - [http://sites.saumag.edu/danaleighton/wp-content/uploads/sites/11/2015/09/SVintro-2.pdf](http://sites.saumag.edu/danaleighton/wp-content/uploads/sites/11/2015/09/SVintro-2.pdf)
 > Finally, to recognize the operation of structural violence forces us to ask questions about how and why we tolerate it, questions which often have painful answers for the privi- leged elite who unconsciously support it. A final question of this section is how and why we allow ourselves to be so oblivious to structural violence. Susan Opotow offers an intriguing set of answers, in her article Social Injustice. She argues that our normal perceptual/cognitive processes divide people into in-groups and out-groups. Those outside our group lie outside our scope of justice. Injustice that would be instantane- ously confronted if it occurred to someone we love or know is barely noticed if it occurs to strangers or those who are invisible or irrelevant. We do not seem to be able to open our minds and our hearts to everyone, so we draw conceptual lines between those who are in and out of our moral circle. Those who fall outside are morally excluded, and be- come either invisible, or demeaned in some way so that we do not have to acknowledge the injustice they suffer. Moral exclusion is a human failing, but Opotow argues con- vincingly that it is an outcome of everyday social cognition. To reduce its nefarious effects, we must be vigilant in noticing and listening to oppressed, invisible, outsiders. Inclusionary thinking can be fostered by relationships, communication, and apprecia- tion of diversity.
+
+## Disad: Grade Inflation
+
+#### College campuses are more diverse than ever
+AAC&U 19 (Association of American Colleges & Universities, AAC&U News, March 2019 “College Students Are More Diverse Than Ever. Faculty and Administrators Are Not”, [https://www.aacu.org/aacu-news/newsletter/2019/march/facts-figures](https://www.aacu.org/aacu-news/newsletter/2019/march/facts-figures)) (Vikram)
+> The student population in US ... the academy remain “predominantly white.”
+
+#### When colleges don't have test scores, they weigh GPA heavily - test-optional colleges prove.
+Simon 15 ((Cecilia Capuzzi Simon, Writer) “The Test-Optional Surge”, NYT, Oct. 28, 2015, [https://www.nytimes.com/2015/11/01/education/edlife/the-test-optional-surge.html](https://www.nytimes.com/2015/11/01/education/edlife/the-test-optional-surge.html)) (Vikram)
+> Applying test-optional is not an ... not be working to potential.
+
+#### Rampant GPA inflation favors rich, white kids over poor kids in urban districts
+Marcus 17 ((Jon Marcus is the higher-education editor at The Hechinger Report.) “Why Suburban Schools Are Inflating Kids' Grades,” Atlantic, 8-16-2017, [https://www.theatlantic.com/education/archive/2017/08/suburban-grade-inflation/536595/](https://www.theatlantic.com/education/archive/2017/08/suburban-grade-inflation/536595/)) (Vikram)
+> PITTSBURGH—Monet Spencer remembers traveling ... applicants whose GPAs are highest.
+
+#### Abolishing the SAT doesn’t solve the underlying conditions behind the disparities. The SAT functions as an equalizer, even if it is flawed.
+Deboer 18 ((Freddie Deboer, ) “The SAT Can Level the Playing Field in Education,” People’s Policy Project, 3-20-2018, [https://www.peoplespolicyproject.org/2018/03/20/the-sat-can-level-the-playing-field-in-education/](https://www.peoplespolicyproject.org/2018/03/20/the-sat-can-level-the-playing-field-in-education/)) (Vikram)
+> The SAT does not enjoy ... way that should disturb us.
+
+#### The result is *less* racial minorities and economically disadvantaged people at college– leads to cycles of poverty
+Cunningham 17 ((Peter Cunningham is the founder of Education Post and serves on its board. He served as assistant secretary for communications and outreach in the U.S. Department of Education during the Obama administration. Prior to that he led communications for Chicago Public Schools) “Education Is the Surest Path Out of Poverty, Even If The Atlantic Reports Otherwise,” Education Post, 10-9-2017, [https://educationpost.org/education-is-the-surest-path-out-of-poverty-even-if-the-atlantic-reports-otherwise/](https://educationpost.org/education-is-the-surest-path-out-of-poverty-even-if-the-atlantic-reports-otherwise/)) (Vikram)
+> For example, in 2012, The ... are excuses to evade accountability.
 
 ## Counterplan: The United States federal government ought to create a public system of nationalized standardized tests.
 Such a standardized test would be administered universally and free-of-charge.

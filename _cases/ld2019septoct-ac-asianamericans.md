@@ -3,6 +3,10 @@ title: AC - Asian Americans
 season: ld2019septoct
 ---
 
+**Rounds:**
+* Yale Invitational JVLD R2 vs. Hunter NV (Judge: Tiffany Dacheux)
+* Yale Invitational JVLD R5 vs. Miramar JT (Judge: Zach Torrey)
+
 <div class="alert alert-warning mb-3">This case may contain a personal narrative when run.</div>
 
 ## FW: Structural Violence
