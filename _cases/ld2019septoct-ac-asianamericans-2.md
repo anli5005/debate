@@ -3,6 +3,10 @@ title: AC - Asian Americans v2
 season: ld2019septoct
 ---
 
+**Version History:**
+* [v1](ld2019septoct-ac-asianamericans)
+* **v2**
+
 **Rounds:**
 * NYC Invitational R2 vs. Unionville MP (Judge: Saied Beckford)
 * NYC Invitational R3 vs. Walt Whitman CB (Judge: Niko Battle)

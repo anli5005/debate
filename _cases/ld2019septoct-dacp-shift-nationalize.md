@@ -3,6 +3,10 @@ title: DA/CP - Grade Inflation & Nationalize
 season: ld2019septoct
 ---
 
+**Version History:**
+* **v1**
+* [v2](ld2019septoct-dacp-shift-nationalize-2)
+
 **Rounds:**
 * Yale Invitational JVLD R1 vs. Acton-Boxborough OH (Judge: Jeff Morris)
 * Yale Invitational JVLD R3 vs. Lake Highland Prep YA (Judge: Emily White)

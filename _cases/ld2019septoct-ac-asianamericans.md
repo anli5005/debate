@@ -3,6 +3,10 @@ title: AC - Asian Americans
 season: ld2019septoct
 ---
 
+**Version History:**
+* **v1**
+* [v2](ld2019septoct-ac-asianamericans-2)
+
 **Rounds:**
 * Yale Invitational JVLD R2 vs. Hunter NV (Judge: Tiffany Dacheux)
 * Yale Invitational JVLD R5 vs. Miramar JT (Judge: Zach Torrey)

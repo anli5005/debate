@@ -3,6 +3,10 @@ title: DA/CP - Grade Inflation & Nationalize v2
 season: ld2019septoct
 ---
 
+**Version History:**
+* [v1](ld2019septoct-dacp-shift-nationalize)
+* **v2**
+
 **Rounds:**
 * NYC Invitational R5 vs. Kellenburg Memorial VT (Judge: Nick Mirza)
 
