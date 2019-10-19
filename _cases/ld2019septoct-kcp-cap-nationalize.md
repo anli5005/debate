@@ -5,6 +5,7 @@ season: ld2019septoct
 
 **Rounds:**
 * NYC Invitational R1 vs. Lake Highland Prep YA (Judge: Kevin Li)
+* NYC Invitational R4 vs. Pembroke Pines Charter RH (Judge: Shannon Rodgers)
 
 ## K: Cap
 
