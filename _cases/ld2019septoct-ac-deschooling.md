@@ -12,7 +12,7 @@ season: ld2019septoct
 Goodman ’64. Goodman, Paul. (American novelist and social critic) – *Compulsory Miseducation*
 > This is a fundamental issue.... the education of free citizens.
 
-#### Schooling commoditizes learning, perpetuates societal myths, and forces an unhealthy dependence on institutions. (concision?)
+#### Schooling commoditizes learning, perpetuates societal myths, and forces an unhealthy dependence on institutions.
 Illich ’71 1. Illich, Ivan (Austrian philosopher) – Deschooling Society
 > Many students, especially those who ... and other agencies in question.
 
