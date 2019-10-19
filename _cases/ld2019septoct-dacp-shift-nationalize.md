@@ -1,5 +1,5 @@
 ---
-title: DA/CP - Grade Inflation & Nationalized Standardized Testing
+title: DA/CP - Grade Inflation & Nationalize
 season: ld2019septoct
 ---
 
