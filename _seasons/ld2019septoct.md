@@ -9,6 +9,4 @@ order: 0
     <li><a href="https://drive.google.com/file/d/1TyLUQWE_mOt417WmdDSZg0QTBnpH10oj/view?usp=sharing">SST Math Speed v2</a></li>
 </ul>
 
-Email [me@anli.dev](mailto:me@anli.dev) for any concerns.
-
-Find me on Messenger or Twitter at **@anli5005**.
+That's a wrap on Bronx! Full cases will be uploaded early November.

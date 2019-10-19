@@ -9,6 +9,7 @@ season: ld2019septoct
 
 **Rounds:**
 * NYC Invitational R5 vs. Kellenburg Memorial VT (Judge: Nick Mirza)
+* NYC Invitational R7 vs. Pembroke Pines Charter KF (Judge: Robey Holland)
 
 ## Framework
 The role of the ballot should be to resist structural violence.
