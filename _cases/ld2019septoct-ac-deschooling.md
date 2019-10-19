@@ -5,6 +5,7 @@ season: ld2019septoct
 
 **Rounds:**
 * Yale Invitational R4 vs. Lexington AKa (Judge: Hope Fallin)
+* NYC Invitational R6 vs. Walt Whitman BW (Judge: Brian Wiora)
 
 ## Framework
 
