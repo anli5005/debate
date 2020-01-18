@@ -5,6 +5,7 @@ season: ld2020janfeb
 
 **Rounds:**
 * Lexington Winter Invitational R1 vs. Edgemont RG (Judge: Brian Wiora)
+* Lexington Winter Invitational R3 vs. Chaminade JV (Judge: Drew Thorburn)
 
 The standard is maximizing expected well-being. 
 

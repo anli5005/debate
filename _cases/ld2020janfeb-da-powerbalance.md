@@ -5,6 +5,7 @@ season: ld2020janfeb
 
 **Rounds:**
 * Lexington Winter Invitational R1 vs. Edgemont RG (Judge: Brian Wiora)
+* Lexington Winter Invitational R3 vs. Chaminade JV (Judge: Drew Thorburn)
 
 #### In a world of anarchy and shifting power relations, nuclear weapons are key to sustain state security for weak nations.
 Shellenberger 18 - [https://www.forbes.com/sites/michaelshellenberger/2018/08/06/who-are-we-to-deny-weak-nations-the-nuclear-weapons-they-need-for-self-defense/#30a6f8f5522f](https://www.forbes.com/sites/michaelshellenberger/2018/08/06/who-are-we-to-deny-weak-nations-the-nuclear-weapons-they-need-for-self-defense/#30a6f8f5522f)
