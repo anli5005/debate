@@ -5,6 +5,7 @@ season: ld2020janfeb
 
 **Rounds:**
 * Lexington Winter Invitational R2 vs. Princeton CO (Judge: Pacy Yan)
+* Lexington Winter Invitational R4 vs. West Des Moines Valley TK (Judge: Luke Gastelu)
 
 ## FW: Structural Violence
 The role of the ballot should be to vote for the debater who best demonstrates procedural resistance to structural violence.

@@ -4,4 +4,6 @@ name: ld2020janfeb
 order: 1
 ---
 
-[Click here to contact me for disclosures](https://anli.dev/contact), as this is my first tournament on this topic and disclosures may be incomplete.
+Hello Lex debaters! Everything up to round 4 should be published here.
+
+[As always, you can click here to contact me if you'd like to discuss anything.](https://anli.dev/contact)
